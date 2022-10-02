@@ -7,7 +7,13 @@ A computer science student, Passionate reader. Eager to find the root cause of p
 
 
 
-Find me on [Twitter](https://twitter.com/sonukumarkush12) | [Medium](https://medium.com/@sonukumarkushwaha) | [Instagram](https://www.instagram.com/flyingsonu736/) |[Blogger](https://singlebucks.blogspot.com/) | [LinkedIn](https://www.linkedin.com/in/sonukumarkushwaha/) | 
+Find me on [@iamsonukushwaha](https://twitter.com/iamsonukushwaha)  
+
+[Instagram](https://www.instagram.com/flyingsonu736/) 
+
+[Blogger](https://singlebucks.blogspot.com) 
+
+[LinkedIn](https://www.linkedin.com/in/sonukumarkushwaha) 
 
 
 If you just want to email me, go ahead send an email to flyingsonu736@gmail.com but be nice and make sure you Googled around a bit before you do. ;)
