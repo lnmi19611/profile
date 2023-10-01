@@ -1,22 +1,17 @@
+<br><br><br><br>
 
-Hi there!
 
-
-I'm **Sonu kumar kushwaha** from India, born in Gopalganj, a sunny place in the state of Bihar.
-A computer science student, Passionate reader. Eager to find the root cause of problems. For fun, I like to ride my motorcycle and follow my home cricket team.
+**&copy; [Sonu Kumar Kushwaha](https://singlebucks.blogspot.com)**
 
 
 
-Find me on [@iamsonukushwaha](https://twitter.com/iamsonukushwaha)  
+<br/><br/><br/>
 
-[Instagram](https://www.instagram.com/flyingsonu736/) 
+<p align="center">
+	<a href="https://singlebucks.blogspot.com"><img src="https://img.shields.io/badge/Website-blueviolet?style=flat&logo=google-chrome&logoColor=white" alt="website"></a>
+	<a href="https://www.linkedin.com/in/sonukumarkushwaha/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://www.youtube.com/@flyingsonu736"><img src="https://img.shields.io/youtube/channel/subscribers/UCugIYeIc-HzCp-SZxRwuQbA?label=YouTube&style=social&logo=YouTube" alt="YouTube"></a>
+	<a href="https://twitter.com/iamsonukushwaha"><img src="https://img.shields.io/twitter/follow/iamsonukushwaha?label=Twitter&style=social" alt="Twitter"></a>
+</p>
 
-[Blogger](https://singlebucks.blogspot.com) 
-
-[LinkedIn](https://www.linkedin.com/in/sonukumarkushwaha) 
-
-
-If you just want to email me, go ahead send an email to flyingsonu736@gmail.com but be nice and make sure you Googled around a bit before you do. ;)
-
-
-That's me, today. I'll be different tomorrow, hopefully better.
+<br><br>
